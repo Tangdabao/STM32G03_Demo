@@ -1,0 +1,1 @@
+lab_manual_lesson_8_shell\startup_stm32g031xx.o: startup_stm32g031xx.s
